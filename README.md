@@ -1,8 +1,12 @@
 
 <h1 align="center">Hi, I'm Besma Bouroubi 👋</h1>
 
+<h3 align="center">
+  AI & Data Science | Optimization Algorithms | Computational Intelligence
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=950&lines=Data+Science+%26+Artificial+Intelligence;Machine+Learning+%26+Deep+Learning;Combinatorial+Optimization+%26+Metaheuristics;Exploring+Algorithms+and+Scientific+Computing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=950&lines=Exploring+Intelligent+Optimization+Algorithms;Machine+Learning+%26+Computational+Intelligence;Metaheuristics+%26+Combinatorial+Optimization;From+Mathematical+Models+to+Algorithms" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,16 +31,20 @@
 
 ### 🚀 About Me
 
-I'm a Master's student in **Data Science and Artificial Intelligence** at Université Constantine 2 Abdelhamid Mehri, Algeria.
+I am a Master's student in **Data Science and Artificial Intelligence** at Université Constantine 2 Abdelhamid Mehri, Algeria.
 
-My interests lie at the intersection of artificial intelligence, mathematical optimization, and algorithmic problem-solving.
+My interests lie at the intersection of **artificial intelligence, mathematical optimization, and algorithmic problem-solving**.
 
-- 🤖 Interested in Machine Learning, Deep Learning and Artificial Intelligence.
-- 🧠 Exploring combinatorial optimization and metaheuristic algorithms.
-- 📊 Working with data analysis, preprocessing and predictive modeling.
-- 🔬 Interested in algorithm design, experimentation and performance evaluation.
-- 💡 Enjoy understanding how algorithms work and comparing different approaches.
+What particularly drives my work is understanding how algorithms explore complex search spaces, how optimization strategies can be improved, and how machine learning can address real-world problems.
+
+- 🧠 Exploring combinatorial and global optimization.
+- ⚙️ Experimenting with genetic algorithms and metaheuristics.
+- 🤖 Developing machine learning and deep learning models.
+- 📊 Working on data analysis, feature engineering and model evaluation.
+- 🔬 Interested in scientific computing, algorithm benchmarking and research.
 - 📌 Open to research-oriented internships and opportunities in AI, Data Science and Optimization.
+
+**My goal:** To develop a deeper understanding of intelligent algorithms and contribute to research-driven solutions for complex computational problems.
 
 ---
 
@@ -87,36 +95,40 @@ My interests lie at the intersection of artificial intelligence, mathematical op
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Selected Projects
 
-**1. Balanced Clustering – Genetic Algorithm Optimization**
+**⚙️ 1. Balanced Clustering – Genetic Algorithm Optimization**
 
 - Studied and improved a genetic algorithm for balanced K-means clustering.
 - Explored combinatorial optimization under strict cluster-balancing constraints.
+- Worked on algorithm design and experimental evaluation.
 
-**2. Smart Pen – Handwriting Recognition**
-
-- Developed a sensor-based data acquisition system using ESP32 and inertial sensors.
-- Explored KNN-DTW, SVM, Random Forest and 1D CNN approaches for handwriting recognition.
-
-**3. Darija Sarcasm Detection – MARBERT**
+**🤖 2. Darija Sarcasm Detection – MARBERT**
 
 - Fine-tuned MARBERT for sarcasm detection in Algerian Arabic text.
+- Applied Natural Language Processing and transformer-based learning.
 - Evaluated performance using accuracy and F1-score.
 
-**4. Adult Income Classification**
+**✍️ 3. Smart Pen – Sensor-Based Handwriting Recognition**
+
+- Developed a sensor-based data acquisition system using ESP32 and inertial sensors.
+- Processed motion time-series data.
+- Explored KNN-DTW, SVM, Random Forest and 1D CNN approaches.
+
+**📊 4. Adult Income Classification**
 
 - Performed exploratory data analysis and data preprocessing.
-- Compared classification algorithms using cross-validation and hyperparameter tuning.
+- Compared classification algorithms using cross-validation.
+- Applied hyperparameter tuning and model evaluation.
 
 ---
 
 ### 📚 Currently Exploring
 
-- Global Optimization and Metaheuristic Algorithms.
+- Global and Combinatorial Optimization.
 - Evolutionary Computation: Genetic Algorithms, Differential Evolution and PSO.
+- Metaheuristics for complex optimization problems.
 - Machine Learning for Scientific and Industrial Applications.
-- Optimization of Complex Systems.
 - Scientific Computing and Algorithm Benchmarking.
 
 ---
@@ -135,5 +147,7 @@ My interests lie at the intersection of artificial intelligence, mathematical op
 ---
 
 <p align="center">
-  <b>Let's connect!</b> Always interested in discussing AI, optimization algorithms, research and scientific computing.
+  <b>Let's connect!</b>
+  <br/>
+  Always interested in discussing Artificial Intelligence, Optimization Algorithms, Computational Intelligence and Scientific Research.
 </p>
